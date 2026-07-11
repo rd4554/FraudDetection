@@ -4,3 +4,4 @@ __pycache__/
 cleaned_dataset.csv
 *.db
 *.db-journal
+fraud.db
