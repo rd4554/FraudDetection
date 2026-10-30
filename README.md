@@ -56,11 +56,10 @@ The dataset is highly imbalanced, making fraud detection a challenging classific
 - Logistic Regression
 - Decision Tree
 - Random Forest
-- XGBoost
 
 ### Final Selected Model
 
-✅ Random Forest Classifier
+✅ XGBoost
 
 Reason:
 - Highest ROC-AUC
